@@ -19,7 +19,7 @@ Sample code:
     greetUser();
 ```
 
-Ссылка на CV [GitHub Pages]()
+Ссылка на CV [GitHub Pages](https://podolski133.github.io/rsschool-cv/cv)
 
 Education - Higher
 
